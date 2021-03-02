@@ -1,0 +1,896 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "01",
+        "name": "Adana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.33082, 36.99141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "02",
+        "name": "Adıyaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.27725, 37.76365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "03",
+        "name": "Afyonkarahisar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.5387, 38.75688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "04",
+        "name": "Ağrı"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.05059, 39.71907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "05",
+        "name": "Amasya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.83734, 40.65645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "06",
+        "name": "Ankara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.85974, 39.93336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "07",
+        "name": "Antalya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.71332, 36.89689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "08",
+        "name": "Artvin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.82081, 41.18093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "09",
+        "name": "Aydın"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.8452, 37.83796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "Balıkesir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.89034, 39.65329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "Bilecik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.97933, 40.14257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "name": "Bingöl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.49662, 38.88546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "Bitlis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.1095, 38.40056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "Bolu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.6082, 40.73254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "Burdur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.28233, 37.71833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "Bursa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.06096, 40.18852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "name": "Çanakkale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.40858, 40.14671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "name": "Çankırı"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.61622, 40.6002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "name": "Çorum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.95372, 40.54992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "name": "Denizli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.09633, 37.78301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "21",
+        "name": "Diyarbakır"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.21098, 37.92497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "22",
+        "name": "Edirne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.55571, 41.67712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "23",
+        "name": "Elazığ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.22251, 38.67481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24",
+        "name": "Erzincan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.49112, 39.74679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "25",
+        "name": "Erzurum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.26582, 39.90549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "26",
+        "name": "Eskişehir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.52563, 39.7667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "27",
+        "name": "Gaziantep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.37811, 37.06595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "28",
+        "name": "Giresun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.39265, 40.91753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29",
+        "name": "Gümüşhane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.48032, 40.46082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "30",
+        "name": "Hakkari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.73678, 37.57742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "31",
+        "name": "Hatay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.16132, 36.20228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "32",
+        "name": "Isparta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.5537, 37.76264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33",
+        "name": "Mersin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.64148, 36.8121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34",
+        "name": "İstanbul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.97835, 41.00823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "35",
+        "name": "İzmir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.14282, 38.42373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36",
+        "name": "Kars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.09745, 40.60133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37",
+        "name": "Kastamonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.77649, 41.37662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "38",
+        "name": "Kayseri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.48259, 38.72048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "39",
+        "name": "Kırklareli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.22436, 41.73547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "name": "Kırşehir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.15949, 39.14607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "41",
+        "name": "Kocaeli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.9408, 40.76544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "42",
+        "name": "Konya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.49315, 37.87464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "name": "Kütahya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.98573, 39.41995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "44",
+        "name": "Malatya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.33352, 38.35536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "45",
+        "name": "Manisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.42956, 38.61403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "46",
+        "name": "Kahramanmaraş"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.92282, 37.57527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "47",
+        "name": "Mardin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.73407, 37.31283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "48",
+        "name": "Muğla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.36339, 37.21537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "49",
+        "name": "Muş"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.49103, 38.73456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "50",
+        "name": "Nevşehir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.71415, 38.62469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "name": "Niğde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.6766, 37.96977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "name": "Ordu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.87972, 40.98616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "name": "Rize"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.51766, 41.02551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "54",
+        "name": "Sakarya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.39481, 40.77307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "name": "Samsun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.33606, 41.2797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "name": "Siirt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.94197, 37.9274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57",
+        "name": "Sinop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.15172, 42.02797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "58",
+        "name": "Sivas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.01502, 39.75054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59",
+        "name": "Tekirdağ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.51167, 40.97809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "60",
+        "name": "Tokat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.55219, 40.32346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "61",
+        "name": "Trabzon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.71676, 41.00269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "name": "Tunceli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.54825, 39.10617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "63",
+        "name": "Şanlıurfa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.79551, 37.1674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "Uşak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.40588, 38.67422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "Van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.37297, 38.5012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "66",
+        "name": "Yozgat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.80857, 39.82104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "67",
+        "name": "Zonguldak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.78938, 41.45352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "68",
+        "name": "Aksaray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.0297, 38.36862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "69",
+        "name": "Bayburt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.22804, 40.26032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "70",
+        "name": "Karaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.22224, 37.181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "71",
+        "name": "Kırıkkale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.50887, 39.83978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "72",
+        "name": "Batman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.12928, 37.88951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73",
+        "name": "Şırnak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.45371, 37.51897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "74",
+        "name": "Bartın"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.33381, 41.6376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75",
+        "name": "Ardahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.70227, 41.11295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76",
+        "name": "Iğdır"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.04361, 39.92005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "77",
+        "name": "Yalova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.28418, 40.65489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78",
+        "name": "Karabük"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.62265, 41.19562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79",
+        "name": "Kilis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.11466, 36.71647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "80",
+        "name": "Osmaniye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.2464, 37.07462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "81",
+        "name": "Düzce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.1626, 40.83872]
+      }
+    }
+  ]
+}

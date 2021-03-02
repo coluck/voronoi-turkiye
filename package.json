@@ -1,0 +1,18 @@
+{
+  "name": "voronoi-turkiye",
+  "version": "1.0.0",
+  "description": "Turkiye'nin voronoi haritasi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "turkey",
+    "voronoi",
+    "harita",
+    "turkiye"
+  ],
+  "author": "Oguz Colak <oguzcoluck@gmail.com>",
+  "license": "ISC"
+}
